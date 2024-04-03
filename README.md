@@ -8,3 +8,5 @@ Codewars Kata with Kotlin language.
 1. [FindSmallestInt](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/findSmallestInt.kt)
 2. [RowSumOddNumbers](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/rowSumOddNumbers.kt)
 3. [GetCompostNameInitials](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/getCompostNameInitials.kt)
+4. [SumMixedArray](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/sumMixedArray.kt)
+5. [TwiceAsOld](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/twiceAsOld.kt)
