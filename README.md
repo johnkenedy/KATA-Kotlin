@@ -12,3 +12,4 @@ Codewars Kata with Kotlin language.
 5. [TwiceAsOld](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/twiceAsOld.kt)
 6. [EnumerableMagic](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/enumerableMagic.kt)
 7. [DisemvowelTrolls](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/disemvowelTrolls.kt)
+8. [Grasshopper](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/grassHopper.kt)
