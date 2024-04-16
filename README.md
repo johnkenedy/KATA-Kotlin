@@ -14,3 +14,4 @@ Codewars Kata with Kotlin language.
 7. [DisemvowelTrolls](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/disemvowelTrolls.kt)
 8. [Grasshopper](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/grassHopper.kt)
 9. [GrowthOfAPopulation](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/growthOfAPopulation.kt)
+10. [ComplementaryDNA](https://github.com/johnkenedy/KATA-Kotlin/blob/main/app/src/main/java/com/example/katakotlin/complementaryDNA.kt)
